@@ -1,2 +1,2 @@
 # revproxy
-Docker Files for auto building a revproxy container
+Docker Files for auto building a revproxy amd 64 container
